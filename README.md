@@ -1,0 +1,1 @@
+# edgex-foundry-doc-translation
